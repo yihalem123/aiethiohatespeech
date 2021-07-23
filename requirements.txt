@@ -1,0 +1,8 @@
+flask==1.1.2
+requests==2.22.0
+beautifulsoup4
+
+keras==2.4.3
+tensorflow-cpu==2.5.0
+nltk==3.5
+gunicorn==20.1.0
